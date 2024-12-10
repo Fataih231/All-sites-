@@ -1,0 +1,45 @@
+/* Sayfanın genel düzeni */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 0;
+}
+
+/* Başlık ve footer stil ayarları */
+header, footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+/* Buton stil ayarları */
+button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 15px 32px;
+  font-size: 16px;
+  cursor: pointer;
+  border: none;
+  margin: 10px;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+section {
+  text-align: center;
+  margin-top: 20px;
+}
+
+h1 {
+  margin-top: 20px;
+}
